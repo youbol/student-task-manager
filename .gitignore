@@ -1,0 +1,29 @@
+# Visual Studio Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+
+# Log files
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Maven build output
+target/
+
+# Java compiled files
+*.class
+
+# Temporary files
+*.tmp
+*.temp
+
+# Node dependencies
+node_modules/
+
+# Environment files
+.env
